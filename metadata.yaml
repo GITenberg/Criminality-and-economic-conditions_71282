@@ -1,0 +1,57 @@
+_repo: Criminality-and-economic-conditions_71282
+_version: 0.0.1
+contributor:
+  author_of_introductions:
+  - agent_name: Lindsey, Edward
+    alias: Lindsey, Edward Sherman
+    birthdate: 1872
+    deathdate: 1943
+    gutenberg_agent_id: '56155'
+    url: http://www.gutenberg.org/2009/agents/56155
+  - agent_name: Norcross, Frank H. (Frank Herbert)
+    birthdate: 1869
+    deathdate: 1952
+    gutenberg_agent_id: '56156'
+    url: http://www.gutenberg.org/2009/agents/56156
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Herbert_Norcross
+  translator:
+    agent_name: Horton, Henry P. (Henry Pomeroy)
+    alias: Horton, Henry Pomeroy
+    birthdate: 1869
+    gutenberg_agent_id: '56142'
+    url: http://www.gutenberg.org/2009/agents/56142
+creator:
+  author:
+    agent_name: Bonger, Willem Adriaan
+    aliases:
+    - Bonger, William Adrian
+    - Bonger, W. A. (Willem Adriaan)
+    birthdate: 1876
+    deathdate: 1940
+    gutenberg_agent_id: '56152'
+    url: http://www.gutenberg.org/2009/agents/56152
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Willem_Adriaan_Bonger
+    - https://en.wikipedia.org/wiki/Willem_Bonger
+description: ''
+gutenberg_issued: '2023-07-28'
+identifiers:
+  gutenberg: '71282'
+language: en
+pgterms:marc904: https://archive.org/details/criminalityecono00bong
+pgterms:marc905: 20180114055923bonger
+pgterms:marc906: '1916'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bWilliam Heinemann, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crime -- Economic aspects'
+- !lcc 'HV'
+- GITenberg
+title: Criminality and economic conditions
+url: http://www.gutenberg.org/ebooks/71282
