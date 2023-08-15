@@ -20,6 +20,9 @@ contributor:
     birthdate: 1869
     gutenberg_agent_id: '56142'
     url: http://www.gutenberg.org/2009/agents/56142
+covers:
+- cover_type: archival
+  image_path: 71282-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Bonger, Willem Adriaan
@@ -34,6 +37,8 @@ creator:
     - https://nl.wikipedia.org/wiki/Willem_Adriaan_Bonger
     - https://en.wikipedia.org/wiki/Willem_Bonger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71282#Criminality-and-economic-conditions
 gutenberg_issued: '2023-07-28'
 identifiers:
   gutenberg: '71282'
